@@ -1,0 +1,33 @@
+.signup-container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    text-align: center;
+    color: #4285f4; 
+  }
+  
+  .input-group {
+    position: relative;
+  }
+  
+  .form-control {
+    height: 50px;
+  }
+  
+  .btn-primary {
+    background-color: #4285f4;
+    border: none;
+    height: 50px;
+    color: #fff; 
+  }
+  
+  .btn-primary:hover {
+    background-color: #2a5db0; 
+  }
+  
